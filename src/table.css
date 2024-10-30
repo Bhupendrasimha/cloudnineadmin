@@ -1,0 +1,17 @@
+.mainTable{
+ padding:20px 20px;
+
+
+}
+.para{
+    cursor: pointer;
+    height: 25px;
+    white-space: nowrap; 
+    width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+/* if u want to change table color play around this */
+/* .ant-table{
+    background-color: red !important;
+} */
